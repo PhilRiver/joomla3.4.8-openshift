@@ -26,7 +26,7 @@ Create a php application with mysql (you can call your application whatever you 
 Add this upstream Joomla repo
 
     cd joomla
-    git remote add upstream -m master git://github.com/mhshakouri/joomla3.4.8-example-openshift-php54-htaccess.git
+    git remote add upstream -m master git://github.com/Site123-ir/joomla3.4.8-openshift.git
     git pull -s recursive -X theirs upstream master
     # note that the git pull above can be used later to pull updates to Joomla
     
